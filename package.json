@@ -55,15 +55,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git@github.com:aisuda/react-custom-widget-template.git"
+    "url": "https://git@github.com:aisuda/container-custom-widget-template.git"
   },
   "bugs": {
-    "url": "https://github.com/aisuda/react-custom-widget-template/issues"
+    "url": "https://github.com/aisuda/container-custom-widget-template/issues"
   },
   "dependencies": {
     "amis-widget": "^1.3.0",
     "antd": "^3.26.20",
-    "monaco-editor-webpack-plugin": "^7.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
