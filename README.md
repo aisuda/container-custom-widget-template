@@ -1,6 +1,6 @@
 # container-custom-widget-template
-> amis自定义组件模板（react技术栈、容器类组件）
-- 备注：充当amis-widget-cli中的react技术栈组件模板
+> amis自定义组件模板（react技术栈、自定义容器类组件）
+- 备注：充当amis-widget-cli中的react技术栈自定义容器组件模板
 
 ### 目录说明
 - src: 自定义组件源码；
